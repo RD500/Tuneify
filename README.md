@@ -7,10 +7,13 @@ Tuneify is a simple, interactive music player web app that allows users to liste
 
 - **Playlists**: Play your favorite songs from the playlist.
 - **Play/Pause**: Toggle between play and pause with a single click.
-- **Seekbar**: Track and adjust the song progress with an interactive seekbar.
+- **Seekbar**: Track and adjust the song progress with an interactive seekbar.i
+
 - **Song Controls**: Navigate between songs using next and previous buttons.
 - **Song Display**: Displays song name and cover art.
-- **Responsive Design**: Works seamlessly across different devices.
+- **Responsive Design**: Works seamlessly across different devices.k ko kooko k kookoo kookoo
+ko
+k
 
 ## Technologies Used
 
@@ -19,15 +22,52 @@ Tuneify is a simple, interactive music player web app that allows users to liste
 - **JavaScript**: Handles the music player functionality, such as play/pause, song switching, and progress bar updates.
 - **FontAwesome**: Used for icons like play/pause and navigation controls.
 
-## Installation
+
+
+
+
+
+## Installatiok
+
+
+
+
+
+
+
+
+
+
+
+no kk kooo kk kooo
+
+
+
+k
+
+
+k
+
+
+
+k
+
+
+
+
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tuneify.git
+   git clone https://github.com/yourusername/tuneif
+
+y.git
    ```
 
 2. Open the folder:
-   ```bash
+   ```bashl
+
+
+
    cd tuneify
    ```
 
